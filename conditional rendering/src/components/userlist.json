@@ -1,0 +1,8 @@
+[
+    {"name":"Abhinav","age":20,"isVisible":true},
+    {"name":"Rahul","age":21,"isVisible":false},
+    {"name":"Raj","age":22,"isVisible":true},
+    {"name":"Salman","age":23,"isVisible":false},
+    {"name":"prem","age":24,"isVisible":true},
+    {"name":"Aryan","age":25,"isVisible":false}
+]
