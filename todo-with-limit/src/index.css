@@ -1,0 +1,16 @@
+.container{
+    text-align: center;
+}
+
+.ul{
+    list-style-type: none;
+}
+
+.dltbtn{
+margin-left: 10px;
+margin-bottom: 10px;
+}
+
+.addbtn{
+    margin-left: 20px;
+}
